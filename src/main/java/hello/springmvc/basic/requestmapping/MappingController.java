@@ -42,7 +42,7 @@ public class MappingController {
      * /mapping/userA
      */
 //    @GetMapping("/mapping/{userId}")
-//    public String mappingPath(@PathVariable String userId){
+//    public String mappingPath(@PathVariable String userId){   변수명에 맞춘것
 //        log.info("mappingPath userId = {}", userId);
 //        return "ok";
 //    }
